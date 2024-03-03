@@ -2,7 +2,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,golang,html,css,js,tailwindcss,nextjs,react,flask,git,github,docker,firebase,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,golang,html,css,js,ts,tailwindcss,nextjs,react,flask,git,github,docker,firebase,unity)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kappy0713&count_private=true&show_icons=true" />
