@@ -22,7 +22,7 @@
 | [あしナビ](https://github.com/kappy0713/ashinavi) | 個人開発<br/>大学のバスや周辺駅の時刻表を手軽に確認できるWebアプリ | Next.js・TypeScript・TailwindCSS |
 | [ポートフォリオ<br/>(開発中)](https://kappy-portfolio.vercel.app/) | 個人開発<br/>ポートフォリオ | React・TypeScript・TailwindCSS |
 | coming soon<br/>(開発中)| 個人開発<br/>記録することで運動習慣の定着をサポートするWebアプリ | Go・Next.js・TailwindCSS・PostgreSQL |
-| coming soon<br/>(開発中)| チーム開発<br/>技術者用のマッチングWebアプリ | Go・Next.js・Supabase |
+| [バック](https://github.com/kou7306/giiku5_backend) <br/> [フロント](https://github.com/kou7306/giiku5_frontend) | チーム開発<br/>技術者用のマッチングWebアプリ | Go・Next.js(TypeScript)・Supabase |
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
