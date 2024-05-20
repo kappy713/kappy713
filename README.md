@@ -1,15 +1,15 @@
 # Hello I'm Kappy 
 
 ## 技術スタック
-<h3>Front</h3>
+<h2>Front</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,nextjs,react)](https://skillicons.dev)
 
-<h3>Back</h3>
+<h2>Back</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,golang,firebase,supabase,postgres)](https://skillicons.dev)
 
-<h3>Other</h3>
+<h2>Other</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,unity,git,github,docker)](https://skillicons.dev)
 
@@ -20,8 +20,8 @@
 |--------|--------|--------|
 | [comict](https://github.com/kou7306/comict) | チーム開発<br/>自分の好みに合わせて漫画や人と繋がれるWebアプリ | Python・HTML・TailwindCSS・JavaScript・Firebase・GCP |
 | [あしナビ](https://github.com/kappy0713/ashinavi) | 個人開発<br/>大学のバスや周辺駅の時刻表を手軽に確認できるWebアプリ | Next.js・TypeScript・TailwindCSS |
-| [ポートフォリオ<br/>(開発中)](https://kappy-portfolio.vercel.app/) | 個人開発<br/>ポートフォリオ | React・TypeScript・TailwindCSS |
-| coming soon<br/>(開発中)| 個人開発<br/>記録することで運動習慣の定着をサポートするWebアプリ | Go・Next.js・TailwindCSS・PostgreSQL |
+| [ポートフォリオ](https://kappy-portfolio.vercel.app/)<br/>(開発中) | 個人開発<br/>ポートフォリオ | React・TypeScript・TailwindCSS |
+| [バック](https://github.com/kappy0713/sports_backend) <br/> [フロント](https://github.com/kappy0713/sports_frontend)<br/>(開発中)| 個人開発<br/>記録することで運動習慣の定着をサポートするWebアプリ | Go・Next.js(TypeScript)・PostgreSQL |
 | [バック](https://github.com/kou7306/giiku5_backend) <br/> [フロント](https://github.com/kou7306/giiku5_frontend) | チーム開発<br/>技術者用のマッチングWebアプリ | Go・Next.js(TypeScript)・Supabase |
 
 
