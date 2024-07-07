@@ -25,13 +25,6 @@
 | GeekLink<br/>[バック](https://github.com/kou7306/GeekLink_backend) <br/> [フロント](https://github.com/kou7306/GeekLink_frontend) | チーム開発<br/>技術者用のマッチングWebアプリ | Go・Next.js(TypeScript)・Supabase |
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kappy0713&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kappy0713&layout=compact&theme=radical" />
-</a>
-
 <!--
 **kappy0713/kappy0713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
