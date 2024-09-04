@@ -3,15 +3,16 @@
 ## 技術スタック
 <h2>Front</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,nextjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,nextjs,react,vue)](https://skillicons.dev)
 
 <h2>Back</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,golang,typescript,expressjs,firebase,supabase,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,golang,ts,expressjs,php,laravel,firebase,supabase,postgres,prisma)](https://skillicons.dev)
 
-<h2>Other</h2>
+<h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,unity,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,ubuntu,phpstorm,postman)](https://skillicons.dev)
+
 
 
 ## 開発物
