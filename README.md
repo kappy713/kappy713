@@ -7,11 +7,11 @@
 
 <h2>Back</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,golang,ts,expressjs,php,laravel,firebase,supabase,postgres,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,golang,ts,expressjs,php,laravel,firebase,supabase,postgres,prisma)](https://skillicons.dev)
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,ubuntu,phpstorm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,phpstorm,postman)](https://skillicons.dev)
 
 
 
@@ -19,7 +19,7 @@
 
 | 作品名 | 概要 | 使用技術 |
 |--------|--------|--------|
-| [comict](https://github.com/kou7306/comict) | チーム開発<br/>自分の好みに合わせて漫画や人と繋がれるWebアプリ | Python・HTML・TailwindCSS・JavaScript・Firebase・GCP |
+| [comict](https://github.com/kou7306/comict) | チーム開発<br/>自分の好みに合わせて漫画や人と繋がれるWebアプリ | Python・HTML・TailwindCSS・JavaScript・Firebase |
 | [あしナビ](https://github.com/kappy0713/ashinavi) | 個人開発<br/>大学のバスや周辺駅の時刻表を手軽に確認できるWebアプリ | Next.js・TypeScript・TailwindCSS |
 | [ポートフォリオ](https://kappy-portfolio.vercel.app/)<br/>(開発中) | 個人開発<br/>ポートフォリオ | React・TypeScript・TailwindCSS |
 | ExercisePlus<br/>[バック](https://github.com/kappy0713/sports_backend) <br/> [フロント](https://github.com/kappy0713/sports_frontend)| 個人開発<br/>記録することで運動習慣の定着をサポートするWebアプリ | Go・Next.js(TypeScript)・PostgreSQL |
