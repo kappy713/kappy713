@@ -3,7 +3,7 @@
 ## 技術スタック
 <h2>Front</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,nextjs,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,nextjs,react)](https://skillicons.dev)
 
 <h2>Back</h2>
 
@@ -11,7 +11,7 @@
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,phpstorm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,phpstorm,postman)](https://skillicons.dev)
 
 
 
