@@ -20,10 +20,10 @@
 | 作品名 | 概要 | 使用技術 |
 |--------|--------|--------|
 | [comict](https://github.com/kou7306/comict) | チーム開発<br/>自分の好みに合わせて漫画や人と繋がれるWebアプリ | Python・HTML・TailwindCSS・JavaScript・Firebase |
-| [あしナビ](https://github.com/kappy0713/ashinavi) | 個人開発<br/>大学のバスや周辺駅の時刻表を手軽に確認できるWebアプリ | Next.js・TypeScript・TailwindCSS |
-| [ポートフォリオ](https://kappy-portfolio.vercel.app/)<br/>(開発中) | 個人開発<br/>ポートフォリオ | React・TypeScript・TailwindCSS |
-| ExercisePlus<br/>[バック](https://github.com/kappy0713/sports_backend) <br/> [フロント](https://github.com/kappy0713/sports_frontend)| 個人開発<br/>記録することで運動習慣の定着をサポートするWebアプリ | Go・Next.js(TypeScript)・PostgreSQL |
-| GeekLink<br/>[バック](https://github.com/kou7306/GeekLink_backend) <br/> [フロント](https://github.com/kou7306/GeekLink_frontend) | チーム開発<br/>学生エンジニアプラットフォーム | Express.js(TypeScript)・Next.js(TypeScript)・Supabase |
+| [あしナビ](https://github.com/kappy0713/ashinavi) | 個人開発<br/>大学のバスや周辺駅の時刻表を手軽に確認できるWebアプリ | TypeScript・Next.js・TailwindCSS |
+| [ポートフォリオ](https://kappy-portfolio.vercel.app/)<br/>(開発中) | 個人開発<br/>ポートフォリオ | TypeScript・React・TailwindCSS |
+| ExercisePlus<br/>[バック](https://github.com/kappy0713/sports_backend) <br/> [フロント](https://github.com/kappy0713/sports_frontend)| 個人開発<br/>記録することで運動習慣の定着をサポートするWebアプリ | Go・TypeScript・Next.js・TailwindCSS・PostgreSQL・Docker |
+| GeekLink<br/>[バック](https://github.com/kou7306/GeekLink_backend) <br/> [フロント](https://github.com/kou7306/GeekLink_frontend) | チーム開発<br/>学生エンジニアプラットフォーム | TypeScirpt・Express.js・Next.js・TailwindCSS・Supabase・Prisma |
 
 <div align="center">  
   <p align="left"> 
