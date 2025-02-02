@@ -27,8 +27,8 @@
 
 <div align="center">  
   <p align="left"> 
-    <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=kappy0713&theme=radical&show_icons=ture" />
-    <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kappy0713&layout=compact&show_icons=true&theme=radical" />
+    <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=kappy713&theme=radical&show_icons=ture" />
+    <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kappy713&layout=compact&show_icons=true&theme=radical" />
   </p>
 </div>
 
