@@ -2,8 +2,8 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kappy713&count_private=true&theme=omni"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kappy713&count_private=true&theme=omni"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kappy713&theme=omni"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kappy713&theme=omni&utcOffset=9"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kappy713&count_private=true&theme=omni"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kappy713&count_private=true&theme=omni&utcOffset=9"/>
 </div>
 
 <h2 align="center">📊 GitHub Readme Stats 📊</h2>
